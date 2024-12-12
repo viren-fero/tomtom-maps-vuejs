@@ -1,9 +1,8 @@
-<script setup>
-import TheWelcome from '../components/TheWelcome.vue'
-</script>
-
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <Map1></Map1>
 </template>
+
+<script setup>
+import Map1 from '@/components/map1.vue';
+
+</script>
